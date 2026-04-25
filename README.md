@@ -57,8 +57,3 @@ count.
 | Mesh | 2 | 16 | Fewest edges at every n |
 | De Bruijn | 0 | 18 | k=2 optimal throughout |
 | Kautz | 0 | 18 | Finer granularity than de Bruijn |
-
----
-
-## Repository Structure
-
